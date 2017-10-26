@@ -21,6 +21,8 @@ def bonus
   }
 
   #code your solution here:
+  he_dies[:montague][:hero][:status] = "dead"
+  she_dies[:capulet][:heroine][:status] = "dead"
 
   
 
